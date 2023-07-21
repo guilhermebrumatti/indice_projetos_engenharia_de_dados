@@ -11,6 +11,7 @@ Criação de Data Warehouse na AWS Redshift
 <a href="https://github.com/guilhermebrumatti/ETL_python-with-spark">ETL Python com PySpark</a><br>
 <a href="https://github.com/guilhermebrumatti/ETL_Pandas_Sql_Python">ETL Python, Pandas e SQL</a><br>
 <a href="https://github.com/guilhermebrumatti/desafio_starwars">ETL Desafio Starwars</a><br>
+<a href="https://github.com/guilhermebrumatti/desafio_starwars_v2">ETL Desafio Starwars versão 2</a><br>
 
 # Web Scraping
 <a href="https://github.com/guilhermebrumatti/webscraping_python">Extraindo Tabela de Classificação do Campeonato Brasileiro de Futebol.</a><br>
